@@ -7,7 +7,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerScript&repo=MeepCityJoke)](https://github.com/MakerScript/MeepCityJoke)
 
-<div align="right">
+<div align="left">
     <a href="https://discord.gg/wgWHtAKgk" alt="Join Discord Server">
         <img src="https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff">
     </a>
