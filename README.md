@@ -9,6 +9,6 @@
 
 <div align="left">
     <a href="https://discord.gg/wgWHtA4Kgk" alt="MeepCityJoke">
-        <img src="https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Discord_Server_MeepCityJoke-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff">
     </a>
 </div>
