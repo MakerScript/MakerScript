@@ -5,12 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+project+ↆ)](https://git.io/typing-svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerScript&repo=MeepCityJoke)](https://github.com/MakerScript/MeepCityJoke)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerScript&repo=LibrarySenxy)](https://github.com/MakerScript/LibrarySenxy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerScript&repo=MeepCityJoke)](https://github.com/MakerScript/MeepCityJoke)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerScript&repo=LibrarySenxy)](https://github.com/MakerScript/LibrarySenxy)
 
 <div align="left">
-    <a href="https://discord.gg/wgWHtA4Kgk" alt="Join Discord Server">
+    <a href="https://discord.gg/wgWHtA4Kgk" alt="MeepCityJoke">
         <img src="https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff">
     </a>
 </div>
