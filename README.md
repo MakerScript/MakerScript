@@ -12,3 +12,6 @@
         <img src="https://img.shields.io/badge/Discord_Server_MeepCityJoke-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff">
     </a>
 </div>
+
+<b> Проекты которые я не публикую : GrooveBett, Logger, LOG:PASS checker Roblox. </b>
+<b> Мой юзер в роблоксе MrSinner_Sinner, tg makerscript, discord makerscript </b>
