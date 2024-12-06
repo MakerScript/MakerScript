@@ -13,5 +13,5 @@
     </a>
 </div>
 
-<b> Проекты которые я не публикую : GrooveBett, Logger, LOG:PASS checker Roblox. </b>
+<b> Проекты которые я не публикую : GrooveBett, Logger, LOG:PASS checker Roblox, Decrypter key_datas [tg], Checker .session </b>
 <b> Мой юзер в роблоксе MrSinner_Sinner, tg makerscript, discord makerscript </b>
