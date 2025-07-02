@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+project+ↆ)](https://git.io/typing-svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerScript&repo=MeepCityJoke)](https://github.com/MakerScript/MeepCityJoke)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerScript&repo=LibrarySenxy)](https://github.com/MakerScript/LibrarySenxy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerScript&repo=MeepCityJoke)](https://github.com/MakerScript/MeepCityJoke)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerScript&repo=VFXS)](https://github.com/MakerScript/VFXS)
 
 <div align="left">
     <a href="https://discord.gg/wgWHtA4Kgk" alt="MeepCityJoke">
